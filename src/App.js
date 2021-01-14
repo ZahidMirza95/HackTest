@@ -6,7 +6,7 @@ function App() {
   return (
     <div className = "main">
       <div> Lol </div>
-      <Comp name = "yollllo"></Comp>
+      <Comp name = "hello this is a test"></Comp>
     </div>
   );
 }
