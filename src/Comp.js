@@ -29,3 +29,4 @@ export const Comp = (props) => {
     );
 }
 /* Hello world */
+/* Min's test edit */
