@@ -20,6 +20,7 @@ function App() {
       <div> Lol </div>
       <Comp name = "yollllo"></Comp>
       <Form />
+      <Comp name = "helloooo second commit"></Comp>
     </div>
   );
 }
